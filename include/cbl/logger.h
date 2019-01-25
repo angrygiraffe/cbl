@@ -12,6 +12,6 @@
 #include <cbl/third_party/spdlog/spdlog.h>
 
 namespace cbl{
-	typedef spdlog::from_file from_file;
-	typedef spdlog::get get;
+	//typedef typename spdlog::from_file from_file;
+	//typedef typename spdlog::get get;
 }

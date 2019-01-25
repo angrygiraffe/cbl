@@ -14,3 +14,6 @@
 #endif
 #include "cbl/third_party/fmt/core.h"
 #include "cbl/third_party/fmt/format.h"
+
+namespace cbl {
+}

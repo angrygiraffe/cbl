@@ -4,5 +4,7 @@
 
 
 namspace cbl {
-	typedef cpptoml::table_array table_array;
+	//typedef typename cpptoml::table_array table_array;
+	//typedef typename cpptoml::table table;
+	//typedef typename cpptoml::array array;
 }
